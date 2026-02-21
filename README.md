@@ -8,3 +8,8 @@ This material:
 
 **What was the last decision not to stop?**  
 Who made it, when, and on what grounds?
+
+Related references:
+- Institutional Friction Toolkit
+- Stop Authority (Reference)
+- Post-Incident Timeboxed Review
